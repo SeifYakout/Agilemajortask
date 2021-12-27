@@ -37,4 +37,8 @@ Delivery Partner: those who are responsible to deliver the items to the customer
 
 Hypermarket Owner: the owner of the hypermarket and their representative 
 
+NEAR VISION OF FIRST TWO SPRINTS 
+
+the first two sprint the team is going to design, establishing and testing intial version of the graphical User Interface and deliver two working pieces of functionality  
+
 
