@@ -29,3 +29,12 @@ Name: Malak Role: Test Lead Expertise:test data management, test design, and tes
 
 Name: lily Role:QA Leader Expertise: test environment and data management, trouble reporting and resolution
 
+STAKEHOLDERS
+
+Customer: Those who order the grocery from the Hypermarket 
+
+Delivery Partner: those who are responsible to deliver the items to the customer 
+
+Hypermarket Owner: the owner of the hypermarket and their representative 
+
+
