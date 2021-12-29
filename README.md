@@ -41,9 +41,11 @@ NEAR VISION OF FIRST TWO SPRINTS
 
 the first 2 sprint the team is going to design, establish and testing intial version of the graphical User Interface and deliver two working pieces of functionality
 
-the first sprint will implement the starting page that include login, sign-up, and forget password and the food cart.
+the first sprint will implement the starting page that include login, sign-up, and forget password for different stakeholder .
 
-the second sprint we will implment the offers , favorites and Recommenditions based on the past orders.
+the second sprint we will implment the foodcart and searching for certain product.
+
+the convention used in story point estimation is modified fibonacci sequence.
 
 
 
