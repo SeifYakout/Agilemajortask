@@ -47,5 +47,8 @@ the second sprint we will implment the foodcart and searching for certain produc
 
 the convention used in story point estimation is modified fibonacci sequence.
 
+The reason for  ordering the product backlog is:
+
+The product backlog is ordered that the stories on the top of the product backlog has the  has the most buisness value and highest priority According to the Product owner perspective 
 
 
