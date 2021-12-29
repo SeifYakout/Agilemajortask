@@ -51,4 +51,8 @@ The reason for  ordering the product backlog is:
 
 The product backlog is ordered that the stories on the top of the product backlog has the  has the most buisness value and highest priority According to the Product owner perspective 
 
+How many story point can my team achieve per sprint?
+
+As it is a long lived team from our past experience the average story point we achieve together per sprint is 20, so we gonna achieve 20 story point per sprint.
+
 
