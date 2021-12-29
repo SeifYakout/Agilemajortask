@@ -39,6 +39,11 @@ Hypermarket Owner: the owner of the hypermarket and their representative
 
 NEAR VISION OF FIRST TWO SPRINTS 
 
-the first two sprint the team is going to design, establishing and testing intial version of the graphical User Interface and deliver two working pieces of functionality  
+the first 2 sprint the team is going to design, establish and testing intial version of the graphical User Interface and deliver two working pieces of functionality
+
+the first sprint will implement the starting page that include login, sign-up, and forget password and the food cart.
+
+the second sprint we will implment the offers , favorites and Recommenditions based on the past orders.
+
 
 
