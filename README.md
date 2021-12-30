@@ -68,5 +68,9 @@ And, that piece of software has a working grocery search engine.
 The next sprint the team will be working on letting the customer to make modifications on the cart and linking this to the Manger and their representative accounts to 
 confirm the orders and that working piece which is expected to be delivered will have an integrated location services.
 
+indicate your rationale and Rules used in README
+
+We used this criteria to test the code we have written before implementing it and make sure that there is no bug in it and once we make sure that it is working properly we can’t move it to save our time  ,to deal with the enemy of doubt and that evil idea that we have missed something.
+
 
 
