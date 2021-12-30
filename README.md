@@ -66,7 +66,6 @@ The past sprint the team managed to Finish the cart and deliver a working piece 
 And, that piece of software has a working grocery search engine.
 
 The next sprint the team will be working on letting the customer to make modifications on the cart and linking this to the Manger and their representative accounts to 
-
 confirm the orders and that working piece which is expected to be delivered will have an integrated location services.
 
 
