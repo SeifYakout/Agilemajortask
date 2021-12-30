@@ -55,4 +55,19 @@ How many story point can my team achieve per sprint?
 
 As it is a long lived team from our past experience the average story point we achieve together per sprint is 20, so we gonna achieve 20 story point per sprint.
 
+Provide an example of a sprint document
+
+The past sprint the team managed to Finish the cart and deliver a working piece of software contains the cart and some of its feature working which are:
+
+1.	The customer can view the cart as he/she wants.
+	 
+2.	The total amount of his/her purchased items.
+
+And, that piece of software has a working grocery search engine.
+
+The next sprint the team will be working on letting the customer to make modifications on the cart and linking this to the Manger and their representative accounts to 
+
+confirm the orders and that working piece which is expected to be delivered will have an integrated location services.
+
+
 
